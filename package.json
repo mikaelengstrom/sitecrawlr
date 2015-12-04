@@ -1,6 +1,6 @@
 {
   "name": "sitecrawlr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A search utility for scanning a domain for terms or query selectors",
   "bin": {
     "sitecrawlr": "./bin/sitecrawlr"
@@ -23,7 +23,7 @@
   "preferGlobal": true,
   "repository": {
       "type": "git",
-      "url": "git://github.com/mikaelengstrom/sitecrawlr.git"
+      "url": "git://github.com/mikaelengstrom/sitecrawlr.git",
   },
   "license": "MIT",
   "bugs": "https://github.com/mikaelengstrom/sitecrawlr/issues",
