@@ -1,8 +1,7 @@
 {
   "name": "sitecrawlr",
-  "version": "0.0.0",
-  "description": "A search utility for scanning a domain for terms or css selectors",
-  "private": true,
+  "version": "0.0.1",
+  "description": "A search utility for scanning a domain for terms or query selectors",
   "bin": {
     "sitecrawlr": "./bin/sitecrawlr"
   },
