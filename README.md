@@ -27,6 +27,7 @@ mocha test
 - [ ] Add ignore-case possibillity to search command
 - [ ] Find out a more serious approach to test the stream filters
 - [ ] Add some examples to the README
+- [ ] Make the url-search run in paralell to speed things up
 
 
 ## License
