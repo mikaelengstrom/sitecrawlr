@@ -1,0 +1,37 @@
+{
+  "name": "sitecrawlr",
+  "version": "0.0.0",
+  "description": "A search utility for scanning a domain for terms or css selectors",
+  "private": true,
+  "bin": {
+    "sitecrawlr": "./bin/sitecrawlr"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": {
+    "name": "Mikael Engström",
+    "email": "mikael.pj.engstrom@gmail.com",
+    "url": "https://github.com/mikaelengstrom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaelengstrom/sitecrawlr"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/mikaelengstrom/sitecrawlr/issues",
+  "dependencies": {
+    "async": "^1.5.0",
+    "autocmdr": "~0.0.7",
+    "cheerio": "^0.19.0",
+    "commander": "^2.0.0",
+    "stream-array": "^1.1.1",
+    "through": "^2.3.8",
+    "xml-stream": "^0.4.5"
+  },
+  "devDependencies": {
+    "express": "^4.13.3",
+    "jasmine": "^2.4.1",
+    "mocha": "^2.3.4"
+  }
+}
