@@ -17,6 +17,14 @@
     "type": "git",
     "url": "https://github.com/mikaelengstrom/sitecrawlr"
   },
+  "bin": {
+      "sitecrawlr": "bin/sitecrawlr"
+  },
+  "preferGlobal": true,
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/mikaelengstrom/sitecrawlr.git"
+  },
   "license": "MIT",
   "bugs": "https://github.com/mikaelengstrom/sitecrawlr/issues",
   "dependencies": {
