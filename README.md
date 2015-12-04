@@ -19,8 +19,19 @@ $ npm install -g sitecrawlr
 mocha test
 ```
 
+## Todo
+
+- [ ] Move the list-function to a separate command
+- [ ] Make the search command accept input from std-in
+- [ ] Make the search engine accept regexes
+- [ ] Add ignore-case possibillity to search command
+- [ ] Find out a more serious approach to test the stream filters
+- [ ] Add some examples to the README
+
+
 ## License
 
 Copyright (c) 2015 Mikael Engström
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+
